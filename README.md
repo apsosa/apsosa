@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Nodejs and React**
 
-- 👯 I’m looking to my first job on **IT enviroment**
+- 👯 I’m looking for my first job on the **IT enviroment**
 
 - 💬 Ask me about **c++,python and Java**
 
