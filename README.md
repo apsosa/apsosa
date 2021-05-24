@@ -6,7 +6,7 @@
 
 - 👯 I’m looking for my first job on the **IT enviroment**
 
-- 💬 Ask me about **c++,python and Java**
+- 💬 Ask me about **C++,Python and Java**
 
 - 📫 How to reach me **patriciososa91@gmail.com**
 
