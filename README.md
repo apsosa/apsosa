@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning **Nodejs and React**
 
 - 👯 I’m looking for my first job on the **IT enviroment**
-
-- 💬 Ask me about **C++,Python and Java**
+[//]: <> (This is also a comment - 💬 Ask me about **C++,Python and Java**)
 
 - 📫 How to reach me **patriciososa91@gmail.com**
 
