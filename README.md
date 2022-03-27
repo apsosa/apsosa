@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently studying at **Univesidad de Buenos Aires**
 
-- 🌱 I’m currently learning **Nodejs and React**
-
-- 👯 I’m looking for my first job on the **IT enviroment**
+- 🌱 I’m currently learning **Vue and Django**
 
 - 📫 How to reach me **patriciososa91@gmail.com**
 
