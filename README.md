@@ -9,14 +9,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/apsosa_">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://iconos8.es/icon/fJp7hepMryiw/twitterx" />
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
   <!--
   <p align="left"> <a href="https://twitter.com/apsosa_" target="blank"><img src="https://img.shields.io/twitter/follow/apsosa_?logo=twitter&style=for-the-badge" alt="apsosa_" /></a> 
   </p>
   -->
 </a>
 <a href="https://www.linkedin.com/in/patsosa/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
 </p>
 
