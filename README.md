@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/apsosa_">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://iconos8.es/icon/fJp7hepMryiw/twitterx" />
   <!--
   <p align="left"> <a href="https://twitter.com/apsosa_" target="blank"><img src="https://img.shields.io/twitter/follow/apsosa_?logo=twitter&style=for-the-badge" alt="apsosa_" /></a> 
   </p>
